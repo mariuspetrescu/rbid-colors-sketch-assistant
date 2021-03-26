@@ -1,17 +1,17 @@
 {
-  "name": "sketch-assistant-template",
-  "homepage": "https://github.com/sketch-hq/sketch-assistant-template",
+  "name": "rbid-colors-assistant",
+  "homepage": "https://github.com/mariuspetrescu/rbid-colors-sketch-assistant",
   "version": "1.0.0",
   "main": "dist/index.js",
   "sketch": "dist/sketch.js",
   "license": "MIT",
   "sketch-assistant": {
-    "title": "Sketch Assistant Template",
-    "description": "Template repository for a starter Assistant project",
+    "title": "RBID Colors Assistant",
+    "description": "Assistant for reporting colors not in the RBID palettes",
     "icon": ""
   },
   "author": {
-    "name": "Your Name or Company Name"
+    "name": "RBRO Innovation and Design"
   },
   "keywords": [
     "sketch",
@@ -19,7 +19,9 @@
     "sketch assistant",
     "public",
     "assistant",
-    "design ops"
+    "design ops",
+    "colors",
+    "palette"
   ],
   "files": [
     "dist"
